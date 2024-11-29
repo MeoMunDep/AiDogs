@@ -72,12 +72,19 @@ socks4://user:password@host:port
 socks5://user:password@host:port
 ```
 
-### 5. `sui_wallets.xlsx` 🌐 - Do not touch this file or script can not working.
+### 5. `sui_wallets.xlsx` 💼 - Do not touch this file or script can not working. | NO USE THIS ANYMORE, BECAUSE THE GAME JUST CHANGE TO SOLANA.
 
 ```txt
 UID|Address|mnemonic|scretKey
 UID|Address|mnemonic|scretKey
 UID|Address|mnemonic|scretKey
+```
+
+### 6. `sol_wallets.txt` 💼 - Fill your Solana wallets here.
+```txt
+xxx...
+xxx...
+xxx...
 ```
 
 💡 Usage:
